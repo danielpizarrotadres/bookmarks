@@ -68,7 +68,7 @@ Entry format: - Short note https://link , https://related-link
 - Building agents with the Claude Agent SDK https://claude.com/resources/articles/building-agents-with-the-claude-agent-sdk
 - Context management https://claude.com/resources/articles/context-management
 - Enabling Claude Code to work more autonomously https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously
-- opencode, open source Claude Code alternative, works with any model https://opencode.ai/ , https://github.com/sst/opencode , https://www.producthunt.com/products/opencode
+- opencode, open source Claude Code alternative, works with any model https://opencode.ai/ , https://github.com/sst/opencode , https://www.producthunt.com/products/opencode , HN discussion https://news.ycombinator.com/item?id=44482504
 
 ### Links
 
