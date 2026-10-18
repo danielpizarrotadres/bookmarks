@@ -66,6 +66,7 @@ Entry format: - Short note https://link , https://related-link
 - Claude Sonnet 4.5 announcement https://www.anthropic.com/news/claude-sonnet-4-5
 - Building agents with the Claude Agent SDK https://claude.com/resources/articles/building-agents-with-the-claude-agent-sdk
 - Context management https://claude.com/resources/articles/context-management
+- Enabling Claude Code to work more autonomously https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously
 
 ### Links
 
