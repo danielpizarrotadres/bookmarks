@@ -35,6 +35,7 @@ Entry format: - Short note https://link , https://related-link
   - [Clean code](#clean-code)
   - [Testing](#testing)
   - [ML and AI](#ml-and-ai)
+  - [Papers](#papers)
 - [DevOps](#devops)
   - [CI/CD and deployment](#cicd-and-deployment)
   - [Docker](#docker)
@@ -115,6 +116,10 @@ Entry format: - Short note https://link , https://related-link
 ### Testing
 
 ### ML and AI
+
+### Papers
+
+- SWE-agent paper, agent-computer interfaces for coding agents https://arxiv.org/abs/2405.15793
 
 ---
 
