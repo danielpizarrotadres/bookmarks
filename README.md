@@ -120,6 +120,7 @@ Entry format: - Short note https://link , https://related-link
 ### Papers
 
 - SWE-agent paper, agent-computer interfaces for coding agents https://arxiv.org/abs/2405.15793 , pdf https://arxiv.org/pdf/2405.15793
+- Reflexion paper, agents that learn from self-reflection instead of fine-tuning https://arxiv.org/abs/2303.11366
 
 ---
 
