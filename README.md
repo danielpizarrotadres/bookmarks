@@ -1,2 +1,144 @@
-# bookmarks
-Links to useful coding resources
+# Bookmarks
+
+Links to useful coding resources.
+
+<!--
+Entry format: - Short note https://link , https://related-link
+-->
+
+### Table of contents
+
+- [General](#general)
+  - [Coding news](#coding-news)
+  - [Blogs](#blogs)
+  - [Cheatsheets](#cheatsheets)
+  - [Utils](#utils)
+  - [LLM](#llm)
+  - [Links](#links)
+  - [Showoff projects](#showoff-projects)
+  - [Trending links](#trending-links)
+- [Frontend](#frontend)
+  - [JavaScript](#javascript)
+  - [React](#react)
+  - [Next.js](#nextjs)
+  - [CSS](#css)
+  - [Good projects](#good-projects)
+  - [Website templates](#website-templates)
+  - [Design](#design)
+- [Backend](#backend)
+  - [Node.js](#nodejs)
+  - [Serverless](#serverless)
+  - [Python](#python)
+  - [Databases](#databases)
+- [Software engineering](#software-engineering)
+  - [Architecture](#architecture)
+  - [Clean code](#clean-code)
+  - [Testing](#testing)
+  - [ML and AI](#ml-and-ai)
+- [DevOps](#devops)
+  - [CI/CD and deployment](#cicd-and-deployment)
+  - [Docker](#docker)
+  - [Linux](#linux)
+  - [Networks](#networks)
+  - [Git](#git)
+- [Career](#career)
+  - [Jobs](#jobs)
+  - [Personal branding](#personal-branding)
+  - [Business](#business)
+  - [Interviews](#interviews)
+  - [Algorithms and data structures](#algorithms-and-data-structures)
+  - [People](#people)
+
+---
+
+## General
+
+### Coding news
+
+### Blogs
+
+### Cheatsheets
+
+### Utils
+
+### LLM
+
+- Claude Sonnet 4.5 announcement https://www.anthropic.com/news/claude-sonnet-4-5
+
+### Links
+
+### Showoff projects
+
+### Trending links
+
+---
+
+## Frontend
+
+### JavaScript
+
+### React
+
+### Next.js
+
+### CSS
+
+### Good projects
+
+### Website templates
+
+### Design
+
+---
+
+## Backend
+
+### Node.js
+
+### Serverless
+
+### Python
+
+### Databases
+
+---
+
+## Software engineering
+
+### Architecture
+
+### Clean code
+
+### Testing
+
+### ML and AI
+
+---
+
+## DevOps
+
+### CI/CD and deployment
+
+### Docker
+
+### Linux
+
+### Networks
+
+### Git
+
+---
+
+## Career
+
+### Jobs
+
+### Personal branding
+
+### Business
+
+### Interviews
+
+### Algorithms and data structures
+
+### People
