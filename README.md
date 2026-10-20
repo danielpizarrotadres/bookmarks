@@ -63,7 +63,9 @@ Entry format: - Short note https://link , https://related-link
 ### Utils
 
 ### LLM
+
 - How AI works (fundamentals) https://academy.claude.com/collections/how-ai-works
+- AI fluency course https://academy.claude.com/courses/ai-fluency-framework-foundations
 - Claude Sonnet 4.5 announcement https://www.anthropic.com/news/claude-sonnet-4-5
 - Building agents with the Claude Agent SDK https://claude.com/resources/articles/building-agents-with-the-claude-agent-sdk
 - Context management https://claude.com/resources/articles/context-management
