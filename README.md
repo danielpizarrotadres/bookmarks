@@ -42,6 +42,7 @@ Entry format: - Short note https://link , https://related-link
   - [Linux](#linux)
   - [Networks](#networks)
   - [Git](#git)
+  - [SRE](#sre)
 - [Career](#career)
   - [Jobs](#jobs)
   - [Personal branding](#personal-branding)
@@ -140,6 +141,10 @@ Entry format: - Short note https://link , https://related-link
 ### Networks
 
 ### Git
+
+### SRE
+
+- Effective troubleshooting https://sre.google/sre-book/effective-troubleshooting
 
 ---
 
