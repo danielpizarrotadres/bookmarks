@@ -63,6 +63,8 @@ Entry format: - Short note https://link , https://related-link
 
 ### Utils
 
+- Teach Yourself Computer Science https://teachyourselfcs.com
+
 ### LLM
 
 - How AI works (fundamentals) https://academy.claude.com/collections/how-ai-works
