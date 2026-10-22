@@ -163,3 +163,5 @@ Entry format: - Short note https://link , https://related-link
 ### Algorithms and data structures
 
 ### People
+
+- Matt Pocock https://www.aihero.dev/
