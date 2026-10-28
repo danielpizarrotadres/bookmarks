@@ -166,3 +166,5 @@ Entry format: - Short note https://link , https://related-link
 ### People
 
 - Matt Pocock https://www.aihero.dev/
+
+- Emerson Salazar Rubilar https://www.linkedin.com/in/emerson-salazar-rubilar/
