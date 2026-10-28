@@ -64,6 +64,7 @@ Entry format: - Short note https://link , https://related-link
 ### Utils
 
 - Teach Yourself Computer Science https://teachyourselfcs.com
+- How computer memory works https://ed.ted.com/lessons/how-computer-memory-works-kanawat-senanan
 
 ### LLM
 
