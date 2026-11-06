@@ -174,4 +174,6 @@ Entry format: - Short note https://link , https://related-link
 
 ### Books
 
-- How Linux Works, 3rd Edition: What Every Superuser Should Know https://www.amazon.com/dp/1718500408
+- How Linux Works, 3rd Edition: What Every Superuser Should Know (Brian Ward) https://www.amazon.com/dp/1718500408
+- Operating System Concepts (Abraham Silberschatz) https://www.amazon.com/dp/1119800366
+- Principles of Network and System Administration (Mark Burgess) https://www.amazon.com/dp/0471823031
