@@ -44,6 +44,7 @@ Entry format: - Short note https://link , https://related-link
   - [Git](#git)
   - [SRE](#sre)
 - [Career](#career)
+  - [Books](#books)
   - [Jobs](#jobs)
   - [Personal branding](#personal-branding)
   - [Business](#business)
@@ -170,3 +171,7 @@ Entry format: - Short note https://link , https://related-link
 - Matt Pocock https://www.aihero.dev/
 
 - Emerson Salazar Rubilar https://www.linkedin.com/in/emerson-salazar-rubilar/
+
+### Books
+
+- How Linux Works, 3rd Edition: What Every Superuser Should Know https://www.amazon.com/dp/1718500408
