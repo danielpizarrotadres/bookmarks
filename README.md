@@ -69,6 +69,7 @@ Entry format: - Short note https://link , https://related-link
 - How does computer memory works https://www.youtube.com/watch?v=7J7X7aZvMXQ
 - System design https://systemdesign.io
 - Devices controllers https://algomaster.io/learn/operating-systems/device-controllers-interrupts-and-dma
+- Practise system design interviews https://grind.lycana.ai/
 
 ### LLM
 
