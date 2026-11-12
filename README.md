@@ -68,6 +68,7 @@ Entry format: - Short note https://link , https://related-link
 - How computer memory works https://ed.ted.com/lessons/how-computer-memory-works-kanawat-senanan
 - How does computer memory works https://www.youtube.com/watch?v=7J7X7aZvMXQ
 - System design https://systemdesign.io
+- Devices controllers https://algomaster.io/learn/operating-systems/device-controllers-interrupts-and-dma
 
 ### LLM
 
@@ -143,8 +144,6 @@ Entry format: - Short note https://link , https://related-link
 ### Linux
 
 - Learn and practice Linux concepts https://overthewire.org/wargames/
-
-- Devices controllers https://algomaster.io/learn/operating-systems/device-controllers-interrupts-and-dma
 
 ### Networks
 
