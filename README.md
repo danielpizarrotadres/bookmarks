@@ -144,6 +144,8 @@ Entry format: - Short note https://link , https://related-link
 
 - Learn and practice Linux concepts https://overthewire.org/wargames/
 
+- Devices controllers https://algomaster.io/learn/operating-systems/device-controllers-interrupts-and-dma
+
 ### Networks
 
 ### Git
