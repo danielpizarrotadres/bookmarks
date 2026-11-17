@@ -180,3 +180,5 @@ Entry format: - Short note https://link , https://related-link
 - How Linux Works, 3rd Edition: What Every Superuser Should Know (Brian Ward) https://www.amazon.com/dp/1718500408
 - Operating System Concepts (Abraham Silberschatz) https://www.amazon.com/dp/1119800366
 - Principles of Network and System Administration (Mark Burgess) https://www.amazon.com/dp/0471823031
+- Distributed Systems (Maarten van Steen) https://www.distributed-systems.net/index.php/books/ds4
+- Designing Data-Intensive Applications, 2nd Edition (Martin Kleppmann, Chris Riccomini) https://www.oreilly.com/library/view/designing-data-intensive/9781098119058
